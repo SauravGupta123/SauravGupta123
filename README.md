@@ -14,14 +14,15 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<em>
 - 🔭 I’m currently working as full Stack Developer Intern at DOTS.
   
 - 🌱 I’m currently learning Devops. 
   
 - 👯 I’m looking to collaborate on open source projects
   
-- 💬 Talk me about programming, Software Development
+- 💬 Talk me about programming, Software Development, Technology.
+  </em>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
