@@ -22,6 +22,32 @@
 - 👯 I’m looking to collaborate on open source projects
   
 - 💬 Talk me about programming, Software Development
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const saurav = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C++", "C"],
+    askMeAbout: ["web dev", "tech", "dsa"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            jsx: ["React"]
+        },
+        databases: ["mongo"],
+        misc: ["Firebase", "dev tools", "Jest"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
   
 
 
