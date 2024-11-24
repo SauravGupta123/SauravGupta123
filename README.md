@@ -15,9 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as full Stack Developer at DOTS
+- 🔭 I’m currently working as full Stack Developer Intern at DOTS.
   
-- 🌱 I’m currently learning Devops 
+- 🌱 I’m currently learning Devops. 
   
 - 👯 I’m looking to collaborate on open source projects
   
